@@ -1,0 +1,12 @@
+{
+  "desc": "Is used to post a customer response to the chatbot. Could be text, a clicked action-link, a clicked url, or a feedback. The response from the chatbot could be a text, a list of actions, a link/url. The chatbot could indicate it recommends switch to human-chat, and if human-chat is available and open, nodes/categories are returned.",
+  "security": [],
+  "protected": false,
+  "status": "",
+  "response": {
+    "statusCode": 200,
+    "schema": {
+      "type": "application/json"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+    "__type": "urn:inin.com:webChat:startChatResponse",
+    "pollWaitSuggestion": "2000",
+    "participantId": "448369fa-d403-478d-99d4-1f1cb644a85e",
+    "chatId": "5eb46784-6cc3-44fc-b8c7-108043e0bb9e"
+}

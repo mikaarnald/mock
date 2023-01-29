@@ -1,0 +1,12 @@
+{
+  "desc": "Indicates if chatbot and/or human-chat is possible/available for the given company and context. The nodes are only returned if chatbot is not availble and human-chat is available and open. NOTE: This endpoint is used to make the first call instead of GET chat-tree-structure.",
+  "security": [],
+  "protected": false,
+  "status": "",
+  "response": {
+    "statusCode": 200,
+    "schema": {
+      "type": "application/json"
+    }
+  }
+}

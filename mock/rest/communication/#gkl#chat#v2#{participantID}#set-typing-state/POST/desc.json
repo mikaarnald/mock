@@ -1,0 +1,12 @@
+{
+  "desc": "Whenever the user's chat text box goes from empty to non-empty or non-empty to empty, call this endpoint to update the current typing state. This must be done in a synchronous fashion (one call at a time) to avoid race conditions.",
+  "security": [],
+  "protected": false,
+  "status": "",
+  "response": {
+    "statusCode": 200,
+    "schema": {
+      "type": "application/json"
+    }
+  }
+}

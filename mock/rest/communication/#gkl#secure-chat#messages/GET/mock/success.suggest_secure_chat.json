@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "__type": "urn:inin.com:webChat:chatTextMessage",
+      "value": "[Initiera BankID-identifiering hos kund]",
+      "sequenceNumber": 0,
+      "participantId": "3c8823d7-c5da-413d-8225-98baa5d3e9ab",
+      "timestamp": "2021-03-11T13:35:19.0019531Z",
+      "contentType": "text/plain",
+      "state": 0,
+      "displayName": null,
+      "participantType": null
+    }
+  ],
+  "pollWaitSuggestion": "2000",
+  "expectedQueueTime": null,
+  "queuePosition": null
+}

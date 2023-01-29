@@ -1,0 +1,16 @@
+{
+  "messages": [
+    {
+      "__type": "urn:inin.com:webChat:chatParticipantStateChangedMessage",
+      "displayName": "Andreas",
+      "participantId": "fbaf389b-825d-4a6b-8b87-b4f64a7f038d",
+      "timestamp": "2020-11-10T12:22:59.3444647Z",
+      "sequenceNumber": 0,
+      "state": 2,
+      "participantType": "WebUser"
+    }
+  ],
+  "pollWaitSuggestion": "2000",
+  "expectedQueueTime": 120,
+  "queuePosition": 3
+}

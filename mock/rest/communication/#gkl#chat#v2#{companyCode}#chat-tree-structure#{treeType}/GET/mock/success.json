@@ -1,0 +1,50 @@
+{
+    "nodes": [
+        {
+            "id": "c42cc6b1-0787-4406-9ab1-a32da3a56d7c",
+            "treeName": "os_foretag_lantbruk_default",
+            "displayName": "Företag och lantbruk",
+            "children": [
+                {
+                    "id": "ca7e4566-e073-48f7-9757-cc4cc45b0892",
+                    "treeName": "app_default",
+                    "displayName": "Testar Chat",
+                    "workgroup": "B31_wTest",
+                    "isScheduleActive": true,
+                    "isWorkGroupOpen": false,
+                    "openHours": "mån,tis,ons,tor,fre,2022-1-1 09:00:00-2023-1-31 17:00:00"
+                },
+                {
+                    "id": "469871d6-8c3f-404c-bc64-ebd5e84ac644",
+                    "treeName": "os_foretag_lantbruk_fordonsforsakring",
+                    "displayName": "Fordonsförsäkring",
+                    "workgroup": "B31_wChatt företag lantbruk försäkring",
+                    "isScheduleActive": true,
+                    "isWorkGroupOpen": false,
+                    "openHours": "mån,tis,ons,tor,fre,2022-1-1 09:00:00-2023-1-31 17:00:00"
+                },
+                {
+                    "id": "d72542af-6406-4b6f-b9b3-470eb012f242",
+                    "treeName": "os_foretag_lantbruk_foretagsforsakring",
+                    "displayName": "Företagsförsäkring",
+                    "workgroup": "B31_wChatt företag lantbruk försäkring",
+                    "isScheduleActive": true,
+                    "isWorkGroupOpen": false,
+                    "openHours": "mån,tis,ons,tor,fre,2022-1-1 09:00:00-2023-1-31 17:00:00"
+                },
+                {
+                    "id": "39b13d2a-ef14-4510-92ea-7edaac7d6194",
+                    "treeName": "os_foretag_lantbruk_lantbruksforsakring",
+                    "displayName": "Lantbruksförsäkring",
+                    "workgroup": "B31_wChatt företag lantbruk försäkring",
+                    "isScheduleActive": true,
+                    "isWorkGroupOpen": false,
+                    "openHours": "mån,tis,ons,tor,fre,2022-1-1 09:00:00-2023-1-31 17:00:00"
+                }
+            ],
+            "isScheduleActive": true,
+            "isWorkGroupOpen": false,
+            "openHours": "mån,tis,ons,tor,fre,2022-1-1 09:00:00-2023-1-31 17:00:00"
+        }
+    ]
+}

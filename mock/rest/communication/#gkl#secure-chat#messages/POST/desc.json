@@ -1,0 +1,12 @@
+{
+  "desc": "Call this to send a chat message. This must be done in a synchronous fashion (one call at a time) to avoid race conditions.",
+  "security": [],
+  "protected": false,
+  "status": "",
+  "response": {
+    "statusCode": 200,
+    "schema": {
+      "type": "application/json"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "__type": "urn:inin.com:webChat:chatTextMessage",
+      "value": "Anonym användare har varit inaktiv i 00:05:00 minuter och måste skriva något inom nästa 00:10:00 minuter för att förbli aktiv i chatten.",
+      "sequenceNumber": 0,
+      "participantId": "00000000-0000-0000-0000-000000000000",
+      "timestamp": "2021-03-11T13:35:19.0019531Z",
+      "contentType": "text/plain",
+      "state": 0,
+      "displayName": null,
+      "participantType": null
+    }
+  ],
+  "pollWaitSuggestion": "2000",
+  "expectedQueueTime": null,
+  "queuePosition": null
+}

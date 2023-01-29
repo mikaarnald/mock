@@ -1,0 +1,12 @@
+{
+  "desc": "Returns the chat structure for the given company",
+  "security": [],
+  "protected": false,
+  "status": "",
+  "response": {
+    "statusCode": 200,
+    "schema": {
+      "type": "application/json"
+    }
+  }
+}

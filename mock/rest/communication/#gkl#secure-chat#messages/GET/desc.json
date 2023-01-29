@@ -1,0 +1,12 @@
+{
+  "desc": "Only returns new messages since last poll",
+  "security": [],
+  "protected": false,
+  "status": "",
+  "response": {
+    "statusCode": 200,
+    "schema": {
+      "type": "application/json"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+    "chat": {
+        "pollWaitSuggestion": 2000,
+        "cfgVer": 1,
+        "events": [],
+        "status": {
+            "type": "success"
+        }
+    }
+}

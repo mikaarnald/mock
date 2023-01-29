@@ -1,0 +1,13 @@
+{
+  "validation": {
+    "empty": {
+      "counter": 0
+    },
+    "success": {
+      "counter": 29
+    },
+    "successHumanNoChatbot.json": {
+      "counter": 208
+    }
+  }
+}

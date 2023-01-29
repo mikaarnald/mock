@@ -1,0 +1,24 @@
+{
+    "chat": {
+        "participantID": "e9580ef2-1270-4182-a429-c3c0d957bf2a",
+        "events": [
+            {
+                "type": "participantStateChanged",
+                "participantID": " e9580ef2-1270-4182-a429-c3c0d957bf2a ",
+                "sequenceNumber": 0,
+                "state": "active",
+                "participantName": "John Doe"
+            },
+            {
+                "type": "participantStateChanged",
+                "participantID": "e9580ef2-1270-4182-a429-c3c0d957bf2a",
+                "sequenceNumber": 0,
+                "state": "active",
+                "participantName": "James"
+            }
+        ],
+        "status": {
+            "type": "success"
+        }
+    }
+}

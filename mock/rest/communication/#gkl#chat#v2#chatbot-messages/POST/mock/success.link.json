@@ -1,0 +1,19 @@
+{
+  "conversationId": "htqKCnRmTgb7P5YKV6jCEgSnpJ5bzD-r5LNqkHuPNChTT5ptNZm5S9kmivPF_7kMuZpoZj7b02f3l0JkcOQqtg==",
+  "botRecommendsHumanChat": false,
+  "isHumanChatAvailable": false,
+  "isHumanChatOpen": false,
+  "responseItems": [
+    {
+      "responseType": "TEXT",
+      "text": "Du hittar alla våra kontaktuppgifter på nedan länk. "
+    },
+    {
+      "responseType": "LINK",
+      "text": "Kontakta oss",
+      "linkId": "9111",
+      "url": "https://www.lansforsakringar.se/uppsala/privat/om-oss/kontakta-oss/"
+    }
+  ],
+  "nodes": null
+}

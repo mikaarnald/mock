@@ -1,0 +1,40 @@
+{
+  "messages": [
+    {
+      "__type": "urn:inin.com:webChat:chatParticipantStateChangedMessage",
+      "value": null,
+      "sequenceNumber": 3,
+      "participantId": "59c2d3e0-5af7-4246-8f04-37d7b304497d",
+      "timestamp": "2021-03-11T13:30:14.3001476Z",
+      "contentType": null,
+      "state": 2,
+      "displayName": "Jernberg Mathias Konsult",
+      "participantType": "Agent"
+    },
+    {
+      "__type": "urn:inin.com:webChat:chatParticipantStateChangedMessage",
+      "value": null,
+      "sequenceNumber": 4,
+      "participantId": "59c2d3e0-5af7-4246-8f04-37d7b304497d",
+      "timestamp": "2021-03-11T13:30:14.3001476Z",
+      "contentType": null,
+      "state": 2,
+      "displayName": "Jernberg Mathias Konsult",
+      "participantType": "Agent"
+    },
+    {
+      "__type": "urn:inin.com:webChat:chatTextMessage",
+      "value": "Jernberg Mathias Konsult har gått med i konversationen.",
+      "sequenceNumber": 0,
+      "participantId": "00000000-0000-0000-0000-000000000000",
+      "timestamp": "2021-03-11T13:30:14.31363Z",
+      "contentType": "text/plain",
+      "state": 0,
+      "displayName": null,
+      "participantType": null
+    }
+  ],
+  "pollWaitSuggestion": "2000",
+  "expectedQueueTime": null,
+  "queuePosition": null
+}

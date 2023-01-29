@@ -1,0 +1,12 @@
+{
+  "desc": "Is used to initiate a chatbot, if chatbot is flagged as being available in the GET possibilites response (chatbotIsAvailable==true). Should normally retur a welcome message as one or several reponseItems of type TEXT. But could include action-links and Urls as well.",
+  "security": [],
+  "protected": false,
+  "status": "",
+  "response": {
+    "statusCode": 200,
+    "schema": {
+      "type": "application/json"
+    }
+  }
+}

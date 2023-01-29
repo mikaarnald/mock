@@ -1,0 +1,283 @@
+{
+    "isChatbotAvailable": false,
+    "isHumanChatAvailable": true,
+    "isHumanChatOpen": true,
+    "nodes": [
+        {
+            "id": "a059dde6-2832-4f25-a6b4-f2041d48b009",
+            "treeName": "os_default",
+            "displayName": "Öppna sidor",
+            "workgroup": null,
+            "children": [
+                {
+                    "id": "c42cc6b1-0787-4406-9ab1-a32da3a56d7c",
+                    "treeName": "os_foretag_lantbruk_default",
+                    "displayName": "Företag och lantbruk",
+                    "workgroup": null,
+                    "children": [
+                        {
+                            "id": "ca7e4566-e073-48f7-9757-cc4cc45b0892",
+                            "treeName": "app_default",
+                            "displayName": "Testar Chat",
+                            "workgroup": "B31_wTest",
+                            "children": [],
+                            "isOpen": true
+                        },
+                        {
+                            "id": "469871d6-8c3f-404c-bc64-ebd5e84ac644",
+                            "treeName": "os_foretag_lantbruk_fordonsforsakring",
+                            "displayName": "Fordonsförsäkring",
+                            "workgroup": "B31_wChatt företag lantbruk försäkring",
+                            "children": [],
+                            "isOpen": true
+                        },
+                        {
+                            "id": "d72542af-6406-4b6f-b9b3-470eb012f242",
+                            "treeName": "os_foretag_lantbruk_foretagsforsakring",
+                            "displayName": "Företagsförsäkring",
+                            "workgroup": "B31_wChatt företag lantbruk försäkring",
+                            "children": [],
+                            "isOpen": true
+                        },
+                        {
+                            "id": "39b13d2a-ef14-4510-92ea-7edaac7d6194",
+                            "treeName": "os_foretag_lantbruk_lantbruksforsakring",
+                            "displayName": "Lantbruksförsäkring",
+                            "workgroup": "B31_wChatt företag lantbruk försäkring",
+                            "children": [],
+                            "isOpen": true
+                        }
+                    ],
+                    "isOpen": true
+                },
+                {
+                    "id": "4862bdfb-2fcb-46b4-a0f6-b5be82cddb76",
+                    "treeName": "os_forsakring_default",
+                    "displayName": "Privatförsäkring",
+                    "workgroup": "B31_wChatt företag lantbruk försäkring",
+                    "children": [],
+                    "isOpen": true
+                },
+                {
+                    "id": "5cc0b9fe-147b-4cdd-a40d-4f825d916bf6",
+                    "treeName": "os_forsakring_hem",
+                    "displayName": "Återbäring",
+                    "workgroup": "B31_wChatt Återbäring",
+                    "children": [],
+                    "isOpen": true
+                },
+                {
+                    "id": "baaddacb-a66d-45b0-80c2-e8793774bd06",
+                    "treeName": "os_skada_default",
+                    "displayName": "Skada",
+                    "workgroup": null,
+                    "children": [
+                        {
+                            "id": "0a5863fa-3372-4a88-879b-e7acb22c15e5",
+                            "treeName": "os_skada_djur",
+                            "displayName": "Övriga frågor",
+                            "workgroup": "B31_wChatt Skador",
+                            "children": [],
+                            "isOpen": true
+                        },
+                        {
+                            "id": "0a5863fa-3372-4a88-879b-e7acb22c15e5",
+                            "treeName": "os_skada_djur",
+                            "displayName": "Övriga frågor",
+                            "workgroup": "B31_wChatt Skador",
+                            "children": [],
+                            "isOpen": true
+                        },
+                        {
+                            "id": "0e30d285-6666-4480-a1b4-f3bcac1e9a53",
+                            "treeName": "os_skada_fordon",
+                            "displayName": "Mitt fordon",
+                            "workgroup": "B31_wChatt Skador",
+                            "children": [],
+                            "isOpen": true
+                        },
+                        {
+                            "id": "0e30d285-6666-4480-a1b4-f3bcac1e9a53",
+                            "treeName": "os_skada_fordon",
+                            "displayName": "Mitt fordon",
+                            "workgroup": "B31_wChatt Skador",
+                            "children": [],
+                            "isOpen": true
+                        },
+                        {
+                            "id": "3e2b0955-f488-479f-858f-158317a0c422",
+                            "treeName": "os_skada_hem",
+                            "displayName": "Mina saker",
+                            "workgroup": "B31_wChatt Skador",
+                            "children": [],
+                            "isOpen": true
+                        },
+                        {
+                            "id": "3e2b0955-f488-479f-858f-158317a0c422",
+                            "treeName": "os_skada_hem",
+                            "displayName": "Mina saker",
+                            "workgroup": "B31_wChatt Skador",
+                            "children": [],
+                            "isOpen": true
+                        },
+                        {
+                            "id": "0a5863fa-3372-4a88-879b-e7acb22c15e5",
+                            "treeName": "os_skada_djur",
+                            "displayName": "Övriga frågor",
+                            "workgroup": "B31_wChatt Skador",
+                            "children": [],
+                            "isOpen": true
+                        },
+                        {
+                            "id": "0a5863fa-3372-4a88-879b-e7acb22c15e5",
+                            "treeName": "os_skada_djur",
+                            "displayName": "Övriga frågor",
+                            "workgroup": "B31_wChatt Skador",
+                            "children": [],
+                            "isOpen": true
+                        },
+                        {
+                            "id": "0e30d285-6666-4480-a1b4-f3bcac1e9a53",
+                            "treeName": "os_skada_fordon",
+                            "displayName": "Mitt fordon",
+                            "workgroup": "B31_wChatt Skador",
+                            "children": [],
+                            "isOpen": true
+                        },
+                        {
+                            "id": "0e30d285-6666-4480-a1b4-f3bcac1e9a53",
+                            "treeName": "os_skada_fordon",
+                            "displayName": "Mitt fordon",
+                            "workgroup": "B31_wChatt Skador",
+                            "children": [],
+                            "isOpen": true
+                        },
+                        {
+                            "id": "3e2b0955-f488-479f-858f-158317a0c422",
+                            "treeName": "os_skada_hem",
+                            "displayName": "Mina saker",
+                            "workgroup": "B31_wChatt Skador",
+                            "children": [],
+                            "isOpen": true
+                        },
+                        {
+                            "id": "3e2b0955-f488-479f-858f-158317a0c422",
+                            "treeName": "os_skada_hem",
+                            "displayName": "Mina saker",
+                            "workgroup": "B31_wChatt Skador",
+                            "children": [],
+                            "isOpen": true
+                        }
+                    ],
+                    "isOpen": true
+                },
+                {
+                    "id": "baaddacb-a66d-45b0-80c2-e8793774bd06",
+                    "treeName": "os_skada_default",
+                    "displayName": "Skada",
+                    "workgroup": null,
+                    "children": [
+                        {
+                            "id": "0a5863fa-3372-4a88-879b-e7acb22c15e5",
+                            "treeName": "os_skada_djur",
+                            "displayName": "Övriga frågor",
+                            "workgroup": "B31_wChatt Skador",
+                            "children": [],
+                            "isOpen": true
+                        },
+                        {
+                            "id": "0a5863fa-3372-4a88-879b-e7acb22c15e5",
+                            "treeName": "os_skada_djur",
+                            "displayName": "Övriga frågor",
+                            "workgroup": "B31_wChatt Skador",
+                            "children": [],
+                            "isOpen": true
+                        },
+                        {
+                            "id": "0e30d285-6666-4480-a1b4-f3bcac1e9a53",
+                            "treeName": "os_skada_fordon",
+                            "displayName": "Mitt fordon",
+                            "workgroup": "B31_wChatt Skador",
+                            "children": [],
+                            "isOpen": true
+                        },
+                        {
+                            "id": "0e30d285-6666-4480-a1b4-f3bcac1e9a53",
+                            "treeName": "os_skada_fordon",
+                            "displayName": "Mitt fordon",
+                            "workgroup": "B31_wChatt Skador",
+                            "children": [],
+                            "isOpen": true
+                        },
+                        {
+                            "id": "3e2b0955-f488-479f-858f-158317a0c422",
+                            "treeName": "os_skada_hem",
+                            "displayName": "Mina saker",
+                            "workgroup": "B31_wChatt Skador",
+                            "children": [],
+                            "isOpen": true
+                        },
+                        {
+                            "id": "3e2b0955-f488-479f-858f-158317a0c422",
+                            "treeName": "os_skada_hem",
+                            "displayName": "Mina saker",
+                            "workgroup": "B31_wChatt Skador",
+                            "children": [],
+                            "isOpen": true
+                        },
+                        {
+                            "id": "0a5863fa-3372-4a88-879b-e7acb22c15e5",
+                            "treeName": "os_skada_djur",
+                            "displayName": "Övriga frågor",
+                            "workgroup": "B31_wChatt Skador",
+                            "children": [],
+                            "isOpen": true
+                        },
+                        {
+                            "id": "0a5863fa-3372-4a88-879b-e7acb22c15e5",
+                            "treeName": "os_skada_djur",
+                            "displayName": "Övriga frågor",
+                            "workgroup": "B31_wChatt Skador",
+                            "children": [],
+                            "isOpen": true
+                        },
+                        {
+                            "id": "0e30d285-6666-4480-a1b4-f3bcac1e9a53",
+                            "treeName": "os_skada_fordon",
+                            "displayName": "Mitt fordon",
+                            "workgroup": "B31_wChatt Skador",
+                            "children": [],
+                            "isOpen": true
+                        },
+                        {
+                            "id": "0e30d285-6666-4480-a1b4-f3bcac1e9a53",
+                            "treeName": "os_skada_fordon",
+                            "displayName": "Mitt fordon",
+                            "workgroup": "B31_wChatt Skador",
+                            "children": [],
+                            "isOpen": true
+                        },
+                        {
+                            "id": "3e2b0955-f488-479f-858f-158317a0c422",
+                            "treeName": "os_skada_hem",
+                            "displayName": "Mina saker",
+                            "workgroup": "B31_wChatt Skador",
+                            "children": [],
+                            "isOpen": true
+                        },
+                        {
+                            "id": "3e2b0955-f488-479f-858f-158317a0c422",
+                            "treeName": "os_skada_hem",
+                            "displayName": "Mina saker",
+                            "workgroup": "B31_wChatt Skador",
+                            "children": [],
+                            "isOpen": true
+                        }
+                    ],
+                    "isOpen": true
+                }
+            ],
+            "isOpen": null
+        }
+    ]
+}

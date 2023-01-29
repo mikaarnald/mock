@@ -1,0 +1,28 @@
+{
+  "validation": {
+    "empty": {
+      "counter": 0
+    },
+    "success": {
+      "counter": 11
+    },
+    "success.inactive_exit": {
+      "counter": 31
+    },
+    "success.inactive_warning": {
+      "counter": 13
+    },
+    "success.receive_msg": {
+      "counter": 31
+    },
+    "success.start_chat": {
+      "counter": 31
+    },
+    "success.suggest_secure_chat": {
+      "counter": 13
+    },
+    "success_empty": {
+      "counter": 6
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "conversationId": "uLu0oBoRlJ53zrp1jgfK-L_Ao-WdqW7aea3woCPW6j5Wz7g9TERvnHY1l_MNFa_zF3i8XRWCtgonMb1mvpVSYA==",
+  "messageId": "1001",
+  "botRecommendsHumanChat": false,
+  "isHumanChatAvailable": false,
+  "isHumanChatOpen": false,
+  "responseItems": [
+    {
+      "responseType": "TEXT",
+      "text": "Thank you for your delightful question. The answer is 47. (Chatbot answered with a text)😀"
+    },
+    {
+      "responseType": "TEXT",
+      "text": "Genom att ha en livförsäkring som betalar ut ett engångsbelopp om du skulle avlida ger du dina efterlevande en trygghet. Inte minst om du och exempelvis din familj äger er bostad och/eller har barn är det klokt att ha ett ordentligt ekonomiskt skydd. "
+    }
+  ],
+  "nodes": [
+    {
+      "id": "1eff8031-a9e0-4e8d-b5ce-02e8fe279f98",
+      "treeName": "os_default",
+      "displayName": "Öppna sidorna huvudträd",
+      "children": [
+        {
+          "id": "e1911a18-e51a-47d4-9ee9-5861872f4d9b",
+          "treeName": "os_bank_default",
+          "displayName": "Bank",
+          "workgroup": "Bank",
+          "isOpen": false,
+          "children": [
+            {
+              "id": "fdd2cf58-a8b9-484a-b95b-0890ec40c8cd",
+              "treeName": "os_bank_lana",
+              "displayName": "Låna",
+              "workgroup": "B32_Bank_Lana",
+              "isOpen": false
+            },
+            {
+              "id": "87f44749-0f09-4a7d-a3a7-2473ba803a3d",
+              "treeName": "os_bank_spara",
+              "displayName": "Spara",
+              "workgroup": "B32_Bank_Spara",
+              "isOpen": false
+            }
+          ]
+        },
+        {
+          "id": "4a1a4c4b-e28a-4867-8537-d5e00f08e6b0",
+          "treeName": "os_pension_default",
+          "displayName": "Pension",
+          "workgroup": "B32_pension_default",
+          "isOpen": true
+        }
+      ]
+    }
+  ]
+}

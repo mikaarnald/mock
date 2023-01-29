@@ -1,0 +1,40 @@
+{
+  "messages": [
+    {
+      "__type": "urn:inin.com:webChat:chatTypingIndicatorMessage",
+      "value": false,
+      "sequenceNumber": 7,
+      "participantId": "3c8823d7-c5da-413d-8225-98baa5d3e9ab",
+      "timestamp": "2021-03-11T14:15:48.0805809Z",
+      "contentType": null,
+      "state": 0,
+      "displayName": null,
+      "participantType": null
+    },
+    {
+      "__type": "urn:inin.com:webChat:chatTextMessage",
+      "value": "Hej! Vad kan jag hjälpa dig med idag? <a href=\"http://localhost:8080/\">länk</a>",
+      "sequenceNumber": 0,
+      "participantId": "3c8823d7-c5da-413d-8225-98baa5d3e9ab",
+      "timestamp": "2021-03-11T14:15:48.1157202Z",
+      "contentType": "text/plain",
+      "state": 0,
+      "displayName": null,
+      "participantType": null
+    },
+    {
+      "__type": "urn:inin.com:webChat:chatTypingIndicatorMessage",
+      "value": false,
+      "sequenceNumber": 9,
+      "participantId": "3c8823d7-c5da-413d-8225-98baa5d3e9ab",
+      "timestamp": "2021-03-11T14:15:48.0962067Z",
+      "contentType": null,
+      "state": 0,
+      "displayName": null,
+      "participantType": null
+    }
+  ],
+  "pollWaitSuggestion": "2000",
+  "expectedQueueTime": null,
+  "queuePosition": null
+}

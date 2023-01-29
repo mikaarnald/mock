@@ -1,0 +1,40 @@
+{
+  "messages": [
+    {
+      "__type": "urn:inin.com:webChat:chatTextMessage",
+      "value": "Anonym användare har kopplats från chatten sedan användaren har varit inaktiv i 00:15:00 minuter.",
+      "sequenceNumber": 0,
+      "participantId": "00000000-0000-0000-0000-000000000000",
+      "timestamp": "2021-03-11T13:45:19.0013503Z",
+      "contentType": "text/plain",
+      "state": 0,
+      "displayName": null,
+      "participantType": null
+    },
+    {
+      "__type": "urn:inin.com:webChat:chatParticipantStateChangedMessage",
+      "value": null,
+      "sequenceNumber": 9,
+      "participantId": "8766c748-32ec-4a75-92d8-e4019d67ac57",
+      "timestamp": "2021-03-11T13:45:18.9980962Z",
+      "contentType": null,
+      "state": 4,
+      "displayName": "Anonym användare",
+      "participantType": "WebUser"
+    },
+    {
+      "__type": "urn:inin.com:webChat:chatParticipantStateChangedMessage",
+      "value": null,
+      "sequenceNumber": 10,
+      "participantId": "59c2d3e0-5af7-4246-8f04-37d7b304497d",
+      "timestamp": "2021-03-11T13:45:18.9980962Z",
+      "contentType": null,
+      "state": 4,
+      "displayName": "Jernberg Mathias Konsult",
+      "participantType": "Agent"
+    }
+  ],
+  "pollWaitSuggestion": "2000",
+  "expectedQueueTime": null,
+  "queuePosition": null
+}

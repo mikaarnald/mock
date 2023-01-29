@@ -1,0 +1,14 @@
+{
+  "name": "node-mock-server",
+  "version": "5.0.0",
+  "license": "UNLICENSED",
+  "scripts": {
+    "mock": "node mock"
+  },
+  "dependencies": {
+    "node-mock-server": "^0.25.4"
+  },
+  "devDependencies": {}
+}
+  
+  

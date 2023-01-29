@@ -1,0 +1,60 @@
+{
+    "messages": [
+        {
+            "__type": "urn:inin.com:webChat:chatParticipantStateChangedMessage",
+            "displayName": "Pelle",
+            "participantId": "448369fa-d403-478d-99d4-1f1cb644a85e",
+            "timestamp": "2022-04-27T06:48:09.3774378Z",
+            "sequenceNumber": 0,
+            "state": 2,
+            "participantType": "WebUser",
+            "value": null,
+            "contentType": null
+        },
+        {
+            "__type": "urn:inin.com:webChat:chatParticipantStateChangedMessage",
+            "displayName": "%1",
+            "participantId": "c716ce8c-0977-40a2-bf09-37ddfbc056a1",
+            "timestamp": "2022-04-27T06:48:09.4086929Z",
+            "sequenceNumber": 1,
+            "state": 2,
+            "participantType": "System",
+            "value": null,
+            "contentType": null
+        },
+        {
+            "__type": "urn:inin.com:webChat:chatTextMessage",
+            "displayName": "Pelle",
+            "participantId": "448369fa-d403-478d-99d4-1f1cb644a85e",
+            "timestamp": "2022-05-27T06:48:09.4151122Z",
+            "sequenceNumber": 2,
+            "state": 2,
+            "participantType": "WebUser",
+            "value": "Välkommen till Länsförsäkringar",
+            "contentType": "text/plain"
+        },
+        {
+            "__type": "urn:inin.com:webChat:chatTextMessage",
+            "displayName": null,
+            "participantId": "448369fa-d403-478d-99d4-1f1cb644a85e",
+            "timestamp": "2022-04-27T06:48:09.4341117Z",
+            "sequenceNumber": 3,
+            "state": 0,
+            "participantType": null,
+            "value": "AnnaKarin testar",
+            "contentType": "text/plain"
+        },
+
+        {
+            "__type": "urn:inin.com:webChat:chatTextMessage",
+            "value": "Hej! Vad kan jag hjälpa dig med idag?",
+            "sequenceNumber": 0,
+            "participantId": "3c8823d7-c5da-413d-8225-98baa5d3e9ab",
+            "timestamp": "2021-03-11T14:15:48.1157202Z",
+            "contentType": "text/plain",
+            "state": 0,
+            "displayName": null,
+            "participantType": null
+        }
+    ]
+}
